@@ -1,3 +1,1 @@
-<script>
-  confirm("reminder to join discord.gg/kccis")
-</script>
+confirm("reminder to join discord.gg/kccis")
