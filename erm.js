@@ -1,1 +1,1 @@
-confirm("reminder to join discord.gg/kccis")
+confirm("reminder to join discord.gg/kccis babe")
