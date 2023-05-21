@@ -35,9 +35,9 @@ done
 # Roadmap
 - [X] basic functionality
 - [ ] memory and chat bubble persistence
-- [ ] increased racism
+- [X] increased racism
 - [ ] ui refresh with gay nigga elements
-- [ ] version switching and personalaities (jerome to its alternate personalities to jeremy)
+- [X] version switching and personalaities (jerome to its alternate personalities to jeremy)
 - [ ] api key rotation so you dont have to redownload a new version everytime i switch api keys 
 
 
