@@ -38,3 +38,14 @@ done
 - [ ] increased racism
 - [ ] ui refresh with gay nigga elements
 - [ ] version switching and personalaities (jerome to its alternate personalities to jeremy)
+
+
+
+
+
+
+<div align=right>
+  <a href="https://gnaa.world">
+  <img src="https://gnaa.world/assets/gnaa%20trademark.png" height=60>
+  </a>
+  </div>
