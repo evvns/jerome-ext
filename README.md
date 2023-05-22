@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="./jeromev4 icon.png" height=320>
+  <img src="./jeromev4 icon.png" height=250>
   </div>
   
   <hr>
